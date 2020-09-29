@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main(){
+	//Condicionales
 	var temp int
 	fmt.Print("Temp: ")
 	fmt.Scan(&temp)
